@@ -1,0 +1,107 @@
+{
+  "fonts" : {
+    "default" : 0,
+    "fontProjects" : [
+      {
+        "familyName" : "Altium Designer Stroke",
+        "filePath" : "~/work/HardFury/AltiumDesignerFont/AltiumDesignerStroke.glyphs",
+        "id" : "C4F7FE66-C68A-400D-B893-F86F9A4CFB6E",
+        "type" : "GlyphsFormat3"
+      }
+    ],
+    "styles" : [
+      {
+        "active" : true,
+        "familyName" : "Altium Designer Stroke",
+        "fontProjectStyle" : {
+          "active" : true,
+          "id" : "2764114D-91A4-4C5A-8A1D-359631D4FFA9",
+          "project" : "~/work/HardFury/AltiumDesignerFont/AltiumDesignerStroke.glyphs",
+          "styleName" : "Bold 700",
+          "type" : "staticInstance"
+        }
+      },
+      {
+        "active" : true,
+        "familyName" : "Altium Designer Stroke",
+        "fontProjectStyle" : {
+          "active" : true,
+          "id" : "A53C0C29-3229-471D-8BBB-6137D8B652C8",
+          "project" : "~/work/HardFury/AltiumDesignerFont/AltiumDesignerStroke.glyphs",
+          "styleName" : "Medium 500",
+          "type" : "staticInstance"
+        }
+      },
+      {
+        "active" : true,
+        "familyName" : "Altium Designer Stroke",
+        "fontProjectStyle" : {
+          "active" : true,
+          "id" : "591C355F-21BC-4664-9282-93899FD61C4D",
+          "project" : "~/work/HardFury/AltiumDesignerFont/AltiumDesignerStroke.glyphs",
+          "styleName" : "Regular 400",
+          "type" : "staticInstance"
+        }
+      },
+      {
+        "active" : true,
+        "familyName" : "Altium Designer Stroke",
+        "fontProjectStyle" : {
+          "active" : true,
+          "id" : "8A321BED-26D6-4E2C-A909-69B2C3FD1703",
+          "project" : "~/work/HardFury/AltiumDesignerFont/AltiumDesignerStroke.glyphs",
+          "styleName" : "Light 300",
+          "type" : "staticInstance"
+        }
+      }
+    ]
+  },
+  "info" : {
+    "lastExportedFiles" : [
+      "~/Downloads/Font Proof.pdf"
+    ],
+    "version" : 3
+  },
+  "sections" : [
+    {
+      "active" : true,
+      "content" : "!\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~",
+      "design" : {
+        "fontSize" : 24,
+        "styleArrangement" : "rows"
+      },
+      "layout" : "styleComparison",
+      "name" : "ASCII 33-126"
+    }
+  ],
+  "settings" : {
+    "exportedFiles" : {
+      "addStyleName" : false,
+      "addTimestamp" : false,
+      "exportFolder" : "~/Downloads",
+      "fileName" : "Font Proof",
+      "multiplePDFs" : false
+    },
+    "header" : {
+      "localizeDate" : true,
+      "showDesigner" : true,
+      "showFileName" : false,
+      "showSectionName" : true,
+      "showVersion" : false
+    },
+    "labels" : {
+      "currentFont" : false,
+      "font" : "Avenir Next",
+      "fontSize" : 10
+    },
+    "pageSize" : {
+      "height" : 595.27559055117388,
+      "width" : 841.88976377951701
+    },
+    "removeEmptyGlyphs" : true,
+    "units" : {
+      "layout" : "mm",
+      "typography" : "pt"
+    }
+  }
+}

@@ -153,3 +153,7 @@ for family_name in [
             target_layer.LSB = margin
             target_layer.RSB = margin
 ```
+
+## Similar fonts
+
+- [Proto Mono](https://atktype.gumroad.com/l/protomono) by Radinal Riki, without lowercase letters

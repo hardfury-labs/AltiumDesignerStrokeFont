@@ -156,4 +156,5 @@ for family_name in [
 
 ## Similar fonts
 
-- [Proto Mono](https://atktype.gumroad.com/l/protomono) by Radinal Riki, without lowercase letters
+- [Proto Mono](https://atktype.gumroad.com/l/protomono) Designed by Radinal Riki, without lowercase letters
+- [Chakra Petch](https://fonts.google.com/specimen/Chakra+Petch) Designed by Cadson Demak

@@ -156,6 +156,6 @@ for family_name in [
 
 ## Similar fonts
 
-- [Proto Mono](https://atktype.gumroad.com/l/protomono) Designed by Radinal Riki, without lowercase letters
+- [Proto Mono](https://atktype.gumroad.com/l/protomono) Designed by Radinal Riki
 - [Chakra Petch](https://fonts.google.com/specimen/Chakra+Petch) Designed by Cadson Demak
 - [Vectrex](https://lineto.com/typefaces/vectrex) Designed by Cornel Windlin and Gilles Gavillet, released by Lineto in 1999, without lowercase letters

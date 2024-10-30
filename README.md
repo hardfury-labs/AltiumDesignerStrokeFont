@@ -13,7 +13,7 @@ Glyphs sketch
 - Medium 500
 - Bold 700
 
-## Using fonts in LCEDA
+## Using Fonts in LCEDA
 
 ![LCEDA](snapshots/lceda.png)
 
@@ -28,7 +28,7 @@ for (const { postscriptName } of await queryLocalFonts()) {
 
 ## How it's developed
 
-### 1. Generate charset
+### 1. Generate Charset
 
 List the glyphs from ASCII 32 to 126.
 
@@ -64,11 +64,11 @@ Display the glyphs in Altium Designer PCB and export to Smart PDF.
 - or [Inkscape](https://inkscape.org) `/Applications/Inkscape.app/Contents/MacOS/inkscape --export-type="svg" --export-area-drawing PCB1.pdf`
 - or [IDRsolutions](https://www.idrsolutions.com/online-pdf-to-html5-converter)
 
-### 4. Guides marks
+### 4. Guides Marks
 
 ![Guides marks](snapshots/guides-marks.png)
 
-### 5. Build font via [Glyphs](https://glyphsapp.com)
+### 5. Build Font via [Glyphs](https://glyphsapp.com)
 
 Set layer margin
 
@@ -154,8 +154,9 @@ for family_name in [
             target_layer.RSB = margin
 ```
 
-## Similar fonts
+## Similar Fonts
 
 - [Proto Mono](https://atktype.gumroad.com/l/protomono) Designed by Radinal Riki
 - [Chakra Petch](https://fonts.google.com/specimen/Chakra+Petch) Designed by Cadson Demak
 - [Vectrex](https://lineto.com/typefaces/vectrex) Designed by Cornel Windlin and Gilles Gavillet, released by Lineto in 1999, without lowercase letters
+- [OCR-X](https://maxitype.com/typeface/ocr-x/) Designed by Maxitype and Eurostandard
